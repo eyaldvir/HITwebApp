@@ -10,7 +10,7 @@
 			
 <h2><center>SIGN IN PAGE</center></h2>
 <div>
-	<form action="/HITwebApp/" method=post enctype="application/x-www-form-urlencoded">
+	<form action="/luckTest.jsp" method=post enctype="application/x-www-form-urlencoded">
 	Name <input type=text name=userName required><BR><BR>
 	Password <input type=password name=password><BR><BR>
 	<INPUT type=submit value="Sign In">
