@@ -12,7 +12,7 @@
 <% String uri = request.getRequestURI();%>
 <div>
 	<form action="<%=uri%>luckTest.jsp" method=get enctype="application/x-www-form-urlencoded">
-	Name <input type=text name=userName required><BR><BR>
+	Name <input type=text name=userName><BR><BR>
 	Password <input type=password name=password><BR><BR>
 	<INPUT type=submit value="Sign In">
 	</form>
