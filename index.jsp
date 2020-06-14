@@ -17,6 +17,5 @@
 	<INPUT type=submit value="Sign In">
 	</form>
 </div>
-<h1>testing our CD</h1>
 </body>
 </html>
